@@ -3,6 +3,8 @@ sauvage
 
 Mobile application for "sauvage de ma rue" citizen science project
 
+Développement original par Natural Solutions
+
 Install notes
 -------------
 
