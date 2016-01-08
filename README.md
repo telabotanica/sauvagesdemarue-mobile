@@ -1,7 +1,8 @@
-sauvage
+sauvagesdemarue-mobile
 =======
 
-Mobile application for "sauvage de ma rue" citizen science project
+Application mobile pour le projet de sciences citoyennes "Sauvages de ma Rue"
+Mobile application for "Sauvages de ma Rue" citizen science project
 
 Développement original par Natural Solutions
 
