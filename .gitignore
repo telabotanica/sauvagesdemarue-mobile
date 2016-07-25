@@ -6,3 +6,4 @@ plugins
 node_modules
 build
 /nbproject
+.idea
