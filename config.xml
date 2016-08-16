@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="eu.NaturalSolutions.SauvagesDeMaRue" version="1.4.95"
-    versionCode="104950"
+<widget id="eu.NaturalSolutions.SauvagesDeMaRue" version="1.5.0"
+    versionCode="105000"
     xmlns="http://www.w3.org/ns/widgets" 
     xmlns:gap="http://phonegap.com/ns/1.0">
 
