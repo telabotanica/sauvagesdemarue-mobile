@@ -29,7 +29,7 @@
     <access origin="http://*.tela-botanica.org/*" />
     <access origin="http://*.sauvagesdepaca.fr" />
 
-    <preference name="phonegap-version" value="4.1.1" />
+    <preference name="phonegap-version" value="cli-5.2.0" />
 
     <preference name="DisallowOverscroll" value="true"/>
     <preference name="Orientation" value="portrait" />

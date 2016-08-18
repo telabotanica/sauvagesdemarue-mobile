@@ -8,7 +8,7 @@
         "url": "https://github.com/NaturalSolutions/sauvage.git"
     },
     "dependencies" : {
-        "cordova": "~4.1.1"
+        "cordova": "~5.2.0"
     },
     "devDependencies" : {
         "grunt": "^0.4.4",
