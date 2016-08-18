@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="eu.NaturalSolutions.SauvagesDeMaRue" version="1.4.94" 
-    versionCode="171"
+<widget id="eu.NaturalSolutions.SauvagesDeMaRue" version="1.5.1"
+    versionCode="105010"
     xmlns="http://www.w3.org/ns/widgets" 
     xmlns:gap="http://phonegap.com/ns/1.0">
 
@@ -29,7 +29,7 @@
     <access origin="http://*.tela-botanica.org/*" />
     <access origin="http://*.sauvagesdepaca.fr" />
 
-    <preference name="phonegap-version" value="3.6.3" />
+    <preference name="phonegap-version" value="4.1.1" />
 
     <preference name="DisallowOverscroll" value="true"/>
     <preference name="Orientation" value="portrait" />
